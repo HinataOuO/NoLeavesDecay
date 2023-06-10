@@ -9,3 +9,5 @@ The plugin is enable by default, u have to modify the config.yml to chenge the s
 
 For 1.19+.
 Tested with paper and spigot server.
+
+Author: -Hina-
