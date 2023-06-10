@@ -8,3 +8,4 @@ It is designed for custom terrain generation scenarios where foliage is located 
 The plugin is enable by default, u have to modify the config.yml to chenge the state (enable/disable) o the range area where the plugin works.
 
 For 1.19+.
+Tested with paper and spigot server.
