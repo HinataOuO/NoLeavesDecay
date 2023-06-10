@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NoLeavesDecay:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft Server paper 1.19.3/plugins</output-path>
+    <root id="archive" name="NoLeavesDecay.jar">
+      <element id="module-output" name="NoLeavesDecay" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../Dependencies/spigot-api-1.19.3-R0.13.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

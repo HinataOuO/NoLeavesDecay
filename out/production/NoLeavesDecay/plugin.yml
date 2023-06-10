@@ -1,0 +1,5 @@
+name: NoLeavesDecay
+version: 1.0.0
+author: HinaOuO
+main: com.hinaouo.noleavesdecay.NoLeavesDecay
+api-version: 1.17
